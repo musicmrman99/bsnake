@@ -1,5 +1,5 @@
 # BSnake
-A FreeBASIC version of the classic snake game.
+A version of the classic snake game.
 
 # History
 Original development stopped 2015-01-13 (it started in early 2014). Feel free to open a pull request if you want to continue it!
