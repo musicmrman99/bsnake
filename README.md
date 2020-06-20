@@ -15,16 +15,16 @@ Gameplay - 2 lives lost + 6 apples eaten:
 
 ![gameplay (two lives lost, plus six apples eaten)](Screenshots/2-lives-lost-6-apples-eaten.png?raw=true "Gameplay - 2 lives lost + 6 apples eaten")
 
-# History
+## History
 Original development stopped 2015-01-13 (it started in early 2014). Feel free to open a pull request if you want to continue it!
 
-# Compilation
+## Compilation
 You can compile the `.bas` (FreeBASIC) file with the [freebasic compiler](https://sourceforge.net/projects/fbc/files/ "FreeBASIC Compiler on SourceFourge") (last tested with `fbc` version 1.05.0):
 ```
 fbc BSnakeAlt.bas
 ```
 
-# Known Issues
+## Known Issues
 **LOTS**, here are some:
 - Segfault without options given
   - Give both `-noconsole` and `-developer` to make it work!
